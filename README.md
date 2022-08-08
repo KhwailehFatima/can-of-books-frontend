@@ -1,11 +1,38 @@
-# Start your own "Can of Books" App
+# Project Name
 
-This repository has starter code to begin work on creating your own online bookshelf.
+**Author**: Team Member Names Goes Here
+**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
-## What can books do?
+## Overview
+<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
 
-Books are life-changing. They have the power to enlighten, educate, entertain, heal, and help us grow. Build out this code base to create an web app to track what books have impacted you, and what's recommended to read next.
+## Getting Started
+1) Imported the template of can of books
+2) Installed Auth0 using npm
+3) create a react application
+4) Copy code from the auth0 documentation to make components
+5) Modify a few lines in User.js file
 
-## Use this template
 
-Clone this repo to your own account with the green "Use this template" button. Then, add any collaborators. Now you are ready to start adding features! Deploy your site to let the world know which books have had the greatest impact on you, and what's recommended. Enjoy!
+## Architecture
+ * React JS
+* CSS
+* Bootstrap
+* Auth0
+* React Router
+* Netlify
+
+## Change Log
+ The application is authenticated now
+
+08-08-2022 - Application now has a authenticated.
+
+
+Name of feature:  Creating an APP, adding authentication feature.
+
+Estimate of time needed to complete: 1:30 hour
+
+Start time: 2:00 pm
+Finish time: 3:30 pm
+
+Actual time needed to complete: 1 hour
