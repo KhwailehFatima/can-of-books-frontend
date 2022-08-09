@@ -7,9 +7,8 @@ function Profile() {
     return isAuthenticated &&(
         <div> 
             <h1> Hello {user.name}</h1>
-            <img src={user.picture} alt="Profile" />
+            <img src={user.picture} alt={user.name} />
             <p> {user.email} </p>
-            
             <p> You are logged in. </p> 
         </div>
          
